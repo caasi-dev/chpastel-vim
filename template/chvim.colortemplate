@@ -79,7 +79,7 @@ Directory            green       none
 EndOfBuffer          black       none
 ErrorMsg             red               white       reverse
 Folded               white             black       italic
-IncSearch            magenta           white       t=reverse g=standout
+IncSearch            green       black             t=reverse g=standout
 MatchParen           black       yellow            bold,reverse
 ModeMsg              white       none
 MoreMsg              white             none
