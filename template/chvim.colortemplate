@@ -89,7 +89,7 @@ PmenuSbar            white       comment
 PmenuSel             black       yellow
 PmenuThumb           black       yellow
 Question             white             none
-Search               yellow            white       reverse
+Search               yellow            black       reverse
 SignColumn           white             none
 SpecialKey           white             none
 SpellBad             magenta     none              s=magenta t=underline g=undercurl
