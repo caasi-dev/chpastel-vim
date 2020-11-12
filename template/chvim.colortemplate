@@ -103,7 +103,7 @@ TabLineFill          white       cyan
 TabLineSel           white       cyan
 Title                yellow            none              bold
 VertSplit            black       cyan
-Visual               blue              white       reverse
+Visual               blue        black       reverse
 VisualNOS            black       blue
 WarningMsg           red               none
 WildMenu             white       magenta
