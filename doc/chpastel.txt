@@ -1,4 +1,4 @@
-*chpastel.txt*	For Vim version 8.0	Last change: 2020 Nov 11
+*chpastel.txt*	For Vim version 8.0	Last change: 2020 Nov 12
 
 
 		CHPASTEL-vim color scheme    by Jakub

@@ -104,7 +104,7 @@ TabLineSel           white       cyan
 Title                yellow            none              bold
 VertSplit            black       cyan
 Visual               blue              white       reverse
-VisualNOS            white       blue
+VisualNOS            black       blue
 WarningMsg           red               none
 WildMenu             white       magenta
 ; Other conventional group names (see `:help group-name`)
